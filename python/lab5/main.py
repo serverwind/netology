@@ -2,7 +2,7 @@
 import telebot 
 
 #токен зарегистрированного у @BotFather нового бота
-token = '5640805430:AAHAJNMMhSpBgyW4eyLkpOAZFoZFTwKp_ds' #убрал в этом файле, в продакшене ставил свой.
+token = 'ваш токен' #убрал в этом файле, в продакшене ставил свой.
 
 #создаем бота
 bot = telebot.TeleBot(token)
